@@ -1,2 +1,2 @@
 # dbms-mini-project
-mini project
+Smart Procurement System
